@@ -1,16 +1,13 @@
-### Hi there 👋
+![Valkyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valkyrie-freja&count_private=true&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valkyrie-freja&layout=compact)](https://github.com/anuraghazra/github-readme-stats?theme=gruvbox)
 
-<!--
-**Valkyrie-freja/Valkyrie-freja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=Valkyrie-freja)](https://github.com/ryo-ma/github-profile-trophy?theme=gruvbox)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+   <a href="http://twitter.com/acaValkyrie">
+    <img height="20" src="https://img.shields.io/twitter/follow/k1h_tech?label=Twitter&logo=twitter&style=flat" />
+  </a>
+   <a href="https://github.com/Valkyrie-freja">
+    <img height="20" src="https://img.shields.io/github/followers/csenet?label=follow&logo=github&style=flat" />
+  </a>
+</p>
