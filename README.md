@@ -5,9 +5,9 @@
 
 <p align="left"> 
    <a href="http://twitter.com/acaValkyrie">
-    <img height="20" src="https://img.shields.io/twitter/follow/k1h_tech?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/acaValkyrie?label=Twitter&logo=twitter&style=flat" />
   </a>
    <a href="https://github.com/Valkyrie-freja">
-    <img height="20" src="https://img.shields.io/github/followers/csenet?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/Valkyrie-freja?label=follow&logo=github&style=flat" />
   </a>
 </p>
