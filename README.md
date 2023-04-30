@@ -8,6 +8,6 @@
     <img height="20" src="https://img.shields.io/twitter/follow/acaValkyrie?label=Twitter&logo=twitter&style=flat" />
   </a>
    <a href="https://github.com/acaValkyrie">
-    <img height="20" src="https://img.shields.io/github/followers/Valkyrie-freja?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/acaValkyrie?label=follow&logo=github&style=flat" />
   </a>
 </p>
