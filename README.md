@@ -1,7 +1,7 @@
-![Valkyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact)](https://github.com/anuraghazra/github-readme-stats?theme=gruvbox)
+![Valkyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=acaValkyrie)](https://github.com/ryo-ma/github-profile-trophy?theme=gruvbox)
+[![trophy](https://github-profile-trophy.vercel.app/?username=acaValkyrie&column=8&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
    <a href="http://twitter.com/acaValkyrie">
