@@ -1,6 +1,6 @@
 ![Valkyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=acaValkyrie&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=acaValkyrie&column=4&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
    <a href="http://twitter.com/acaValkyrie">
