@@ -4,7 +4,7 @@ embedded system etc.
 
 # Depend on
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,bash,rust,c,cpp,cs,dotnet,py,selenium,js,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github">
+<img src="http://devicons.acavalkyrie.workers.dev/icons?i=arduino,raspberrypi,bash,rust,c,cpp,cs,dotnet,py,selenium,js,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github">
 <img height=50px src="platformio.svg">
 <img height=50px src="avr.svg">
 <img height=50px src="espressif-systems.svg">
