@@ -32,11 +32,11 @@ embedded system etc.
 </picture>
 <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark&count_private=true&hide=shaderlab,cmake,glsl"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
         media="(prefers-color-scheme: dark)"
     >
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab,cmake,glsl"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
     <img width=42%>
