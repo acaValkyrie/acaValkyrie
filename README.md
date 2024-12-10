@@ -50,6 +50,6 @@ embedded system etc.
         srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=default"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
-    <img width=97.5%>
+    <img width=98%>
 </picture>
 </p>
