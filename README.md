@@ -6,7 +6,7 @@ embedded system etc.
 <p>
 <img
     width=97.5%
-    src="https://devicons.acavalkyrie.workers.dev/icons?i=platformio,avr,espressif,arduino,raspberrypi,rust,c,cpp,cs,dotnet,py,js,bash,selenium,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github,">
+    src="https://devicons.acavalkyrie.workers.dev/icons?i=platformio,avr,espressif,arduino,raspberrypi,rust,c,cpp,cs,dotnet,py,js,bash,selenium,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github,&perline=12">
 </p>
 
 # Stats
