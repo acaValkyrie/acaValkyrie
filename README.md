@@ -4,32 +4,9 @@ embedded system etc.
 
 # Depend on
 <p>
-<img src="https://devicons.acavalkyrie.workers.dev/icons?i=
-platformio,
-avr,
-espressif,
-arduino,
-raspberrypi,
-rust,
-c,
-cpp,
-cs,
-dotnet,
-py,
-js,
-bash,
-selenium,
-docker,
-bots,
-godot,
-unity,
-atom,
-vscode,
-vim,
-neovim,
-git,
-github,
-">
+<img
+    width=99.4%
+    src="https://devicons.acavalkyrie.workers.dev/icons?i=platformio,avr,espressif,arduino,raspberrypi,rust,c,cpp,cs,dotnet,py,js,bash,selenium,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github,">
 </p>
 
 # Stats
