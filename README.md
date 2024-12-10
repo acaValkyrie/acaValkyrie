@@ -20,9 +20,7 @@ embedded system etc.
         srcset="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=default"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
-    <img
-        width=55%
-        src="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=onedark">
+    <img width=55%>
 </picture>
 <picture>
     <source
@@ -33,9 +31,7 @@ embedded system etc.
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab,cmake,glsl"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
-    <img
-        width=42%
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark&count_private=true&hide=shaderlab,cmake,glsl">
+    <img width=42%>
 </picture>
 <picture>
     <source
@@ -46,8 +42,6 @@ embedded system etc.
         srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=default"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
-    <img
-        width=97.5%
-        src="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=onedark">
+    <img width=97.5%>
 </picture>
 </p>
