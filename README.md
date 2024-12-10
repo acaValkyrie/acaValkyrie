@@ -10,7 +10,7 @@ embedded system etc.
 <img height=50px src="espressif-systems.svg">
 </p>
 
-# Status
+# Stats
 <p>
 <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark">
 <img height=150px src="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=onedark">
