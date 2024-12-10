@@ -12,7 +12,7 @@ embedded system etc.
 
 # Stats
 <p>
-<img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark">
-<img height=150px src="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=onedark">
+<img height=127px src="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=onedark">
+<img height=127px src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark&count_private=true&hide=shaderlab,cmake,glsl">
 <img src="https://github-profile-trophy.vercel.app/?username=acaValkyrie&theme=onedark">
 <p>
