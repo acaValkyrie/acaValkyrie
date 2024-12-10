@@ -2,7 +2,7 @@
 embedded system etc.
 </p>
 
-# Depend on
+# Skills
 <p>
 <img
     width=97.5%
