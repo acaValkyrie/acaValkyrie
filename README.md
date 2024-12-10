@@ -35,10 +35,12 @@ github,
 # Stats
 <p>
 <img
-    width=56.5%
+    width=56.3%
     src="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=onedark">
 <img
-    width=42.8%
+    width=42.74%
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark&count_private=true&hide=shaderlab,cmake,glsl">
-<img src="https://github-profile-trophy.vercel.app/?username=acaValkyrie&theme=onedark">
-<p>
+<img
+    width=99.4%
+    src="https://github-profile-trophy.vercel.app/?username=acaValkyrie&theme=onedark">
+</p>
