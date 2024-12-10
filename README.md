@@ -6,16 +6,16 @@ embedded system etc.
 <p>
 <picture>
     <source
-        srcset="https://devicons.acavalkyrie.workers.dev/icons?i=platformio,avr,espressif,arduino,raspberrypi,rust,c,cpp,cs,dotnet,py,js,bash,selenium,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github,&perline=12&theme=dark"
+        srcset="https://devicons.acavalkyrie.workers.dev/icons?i=platformio,avr,espressif,arduino,raspberrypi,rust,c,cpp,cs,dotnet,py,js,bash,selenium,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github&perline=12&theme=dark"
         media="(prefers-color-scheme: dark)"
     >
     <source
-        srcset="https://devicons.acavalkyrie.workers.dev/icons?i=platformio,avr,espressif,arduino,raspberrypi,rust,c,cpp,cs,dotnet,py,js,bash,selenium,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github,&perline=12&theme=light"
+        srcset="https://devicons.acavalkyrie.workers.dev/icons?i=platformio,avr,espressif,arduino,raspberrypi,rust,c,cpp,cs,dotnet,py,js,bash,selenium,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github&perline=12&theme=light"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
     <img
         width=97.5%
-        src="https://devicons.acavalkyrie.workers.dev/icons?i=platformio,avr,espressif,arduino,raspberrypi,rust,c,cpp,cs,dotnet,py,js,bash,selenium,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github,&perline=12">
+        src="https://devicons.acavalkyrie.workers.dev/icons?i=platformio,avr,espressif,arduino,raspberrypi,rust,c,cpp,cs,dotnet,py,js,bash,selenium,docker,bots,godot,unity,atom,vscode,vim,neovim,git,github&perline=12">
 </picture>
 </p>
 
