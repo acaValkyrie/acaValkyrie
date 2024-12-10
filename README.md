@@ -39,15 +39,15 @@ embedded system etc.
 </picture>
 <picture>
     <source
-        srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&theme=onedark&columns=3"
+        srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=onedark"
         media="(prefers-color-scheme: dark)"
     >
     <source
-        srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&theme=default&columns=3"
+        srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=default"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
     <img
         width=97.5%
-        src="https://github-profile-trophy.vercel.app/?username=acaValkyrie&theme=onedark&columns=3">
+        src="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=onedark">
 </picture>
 </p>
