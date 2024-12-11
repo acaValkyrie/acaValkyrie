@@ -44,7 +44,7 @@ embedded system etc.
                 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=41% align=right>
+            <img width=41%>
         </picture>
     </a>
 </p>
@@ -59,7 +59,7 @@ embedded system etc.
                 srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=100%>
+            <img width=96%>
         </picture>
     </a>
 </p>
@@ -74,7 +74,7 @@ embedded system etc.
                 srcset="./profile-3d-contrib/profile-custom-green-light.svg"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=100%>
+            <img width=96%>
         </picture>
     </a>
 </p>
