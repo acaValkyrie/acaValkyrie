@@ -7,11 +7,11 @@ embedded system etc.
     <a href="https://github.com/tandpfun/skill-icons">
         <picture>
             <source
-                srcset="https://devicons.acavalkyrie.workers.dev/icons?i=platformio%2Cavr%2Cespressifsystems%2Carduino%2Craspberrypi%2Crust%2Cc%2Ccpp%2Ccs%2Cdotnet%2Cpy%2Cjs%2Cbash%2Cselenium%2Cdocker%2Cbots%2Cgodot%2Cunity%2Catom%2Cvscode%2Cvim%2Cneovim%2Cgit%2Cgithub&perline=12&theme=dark"
+                srcset="./skill-icons/skill-icons-dark.svg"
                 media="(prefers-color-scheme: dark)"
             >
             <source
-                srcset="https://devicons.acavalkyrie.workers.dev/icons?i=platformio%2Cavr%2Cespressifsystems%2Carduino%2Craspberrypi%2Crust%2Cc%2Ccpp%2Ccs%2Cdotnet%2Cpy%2Cjs%2Cbash%2Cselenium%2Cdocker%2Cbots%2Cgodot%2Cunity%2Catom%2Cvscode%2Cvim%2Cneovim%2Cgit%2Cgithub&perline=12&theme=light"
+                srcset="./skill-icons/skill-icons-light.svg"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
             <img width=100%>
