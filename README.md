@@ -67,11 +67,11 @@ embedded system etc.
     <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
         <picture>
             <source
-                srcset="./profile-3d-contrib/profile-night-green.svg"
+                srcset="./profile-3d-contrib/profile-custom-green-dark.svg"
                 media="(prefers-color-scheme: dark)"
             >
             <source
-                srcset="./profile-3d-contrib/profile-green-animate.svg"
+                srcset="./profile-3d-contrib/profile-custom-green-light.svg"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
             <img width=100%>
