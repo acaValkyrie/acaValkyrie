@@ -31,7 +31,7 @@ embedded system etc.
                 srcset="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=56.3%>
+            <img width=56%>
         </picture>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
