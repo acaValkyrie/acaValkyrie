@@ -74,7 +74,7 @@ embedded system etc.
                 srcset="./profile-3d-contrib/profile-custom-green-light.svg"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=100% border="1 white">
+            <img width=100% style="border:1px solid white">
         </picture>
     </a>
 </p>
