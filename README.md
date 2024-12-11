@@ -31,7 +31,7 @@ embedded system etc.
                 srcset="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img height=150px>
+            <img width=54%>
         </picture>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -44,7 +44,7 @@ embedded system etc.
                 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img height=150px>
+            <img width=41% align=right>
         </picture>
     </a>
 </p>
@@ -59,7 +59,7 @@ embedded system etc.
                 srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=637px>
+            <img width=100%>
         </picture>
     </a>
 </p>
@@ -74,7 +74,7 @@ embedded system etc.
                 srcset="./profile-3d-contrib/profile-custom-green-light.svg"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=100% style="border:1px solid white">
+            <img width=100%>
         </picture>
     </a>
 </p>
