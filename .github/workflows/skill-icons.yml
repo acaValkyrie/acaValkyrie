@@ -5,6 +5,8 @@ on:
   push:
     branches:
     - main
+    paths:
+    - .github/workflows/skill-icons.yml
 
 jobs:
   build:
