@@ -53,3 +53,11 @@ embedded system etc.
     <img width=98%>
 </picture>
 </p>
+<hr>
+<p>
+<ul>
+<li><a href="https://github.com/tandpfun/skill-icons">Skill icons card is created by tandpfun/skill-icons and I have used it with some modifications</a></li>
+<li><a href="https://github.com/anuraghazra/github-readme-stats">GitHub stats card and Most used languages card are powerd by anuraghazra/github-readme-stats</a></li>
+<li><a href="https://github.com/ryo-ma/github-profile-trophy">Trophy card is powerd by ryo-ma/github-profile-trophy</a></li>
+</ul>
+</p>
