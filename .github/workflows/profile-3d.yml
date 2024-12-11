@@ -4,6 +4,9 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
   build:
@@ -19,6 +22,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git pull
           git add -A .
           git commit -m "generated"
           git push
