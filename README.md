@@ -63,3 +63,18 @@ embedded system etc.
         </picture>
     </a>
 </p>
+<p>
+    <a href="">
+        <picture>
+            <source
+                srcset="./profile-3d-contrib/profile-night-green.svg"
+                media="(prefers-color-scheme: dark)"
+            >
+            <source
+                srcset="./profile-3d-contrib/profile-green-animate.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            >
+            <img width=100%>
+        </picture>
+    </a>
+</p>
