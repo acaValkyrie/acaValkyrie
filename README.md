@@ -14,7 +14,7 @@ embedded system etc.
                 srcset="https://devicons.acavalkyrie.workers.dev/icons?i=platformio%2Cavr%2Cespressifsystems%2Carduino%2Craspberrypi%2Crust%2Cc%2Ccpp%2Ccs%2Cdotnet%2Cpy%2Cjs%2Cbash%2Cselenium%2Cdocker%2Cbots%2Cgodot%2Cunity%2Catom%2Cvscode%2Cvim%2Cneovim%2Cgit%2Cgithub&perline=12&theme=light"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=97.5%>
+            <img width=100%>
         </picture>
     </a>
 </p>
@@ -31,7 +31,7 @@ embedded system etc.
                 srcset="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=55%>
+            <img width=56.3%>
         </picture>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -44,7 +44,7 @@ embedded system etc.
                 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=42%>
+            <img width=43% align=right>
         </picture>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -57,7 +57,7 @@ embedded system etc.
                 srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=98%>
+            <img width=100%>
         </picture>
     </a>
 </p>
