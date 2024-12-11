@@ -31,7 +31,7 @@ embedded system etc.
                 srcset="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=56%>
+            <img width=55%>
         </picture>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -44,7 +44,7 @@ embedded system etc.
                 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=43% align=right>
+            <img width=41.7% align=right>
         </picture>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
