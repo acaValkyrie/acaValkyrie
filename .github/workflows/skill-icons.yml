@@ -19,7 +19,9 @@ jobs:
         run: |
           curl -s -o ./skill-icons/skill-icons-light.svg https://devicons.acavalkyrie.workers.dev/icons?i=platformio%2Cavr%2Cespressifsystems%2Carduino%2Craspberrypi%2Crust%2Cc%2Ccpp%2Ccs%2Cdotnet%2Cpy%2Cjs%2Cbash%2Cselenium%2Cdocker%2Cbots%2Cgodot%2Cunity%2Catom%2Cvscode%2Cvim%2Cneovim%2Cgit%2Cgithub&perline=12&theme=light
       - name: Check for changes
-        run: git status
+        run: |
+          git status
+          ls -la
       - name: Commit & Push
         run: |
           git config user.name github-actions
