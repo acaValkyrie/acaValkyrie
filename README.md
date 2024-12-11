@@ -20,7 +20,7 @@ embedded system etc.
 </p>
 
 # Stats
-<p width=100% style="display: flex">
+<p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <picture>
             <source
@@ -31,7 +31,7 @@ embedded system etc.
                 srcset="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img>
+            <img height=150px>
         </picture>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -44,7 +44,7 @@ embedded system etc.
                 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img>
+            <img height=150px>
         </picture>
     </a>
 </p>
@@ -59,7 +59,7 @@ embedded system etc.
                 srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
-            <img width=100%>
+            <img width=637px>
         </picture>
     </a>
 </p>
