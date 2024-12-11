@@ -19,6 +19,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: conf/github-profile-3d-contrib.json
+          IGNORE_LANGUAGES: "TeX"
       - name: Commit & Push
         run: |
           git config user.name github-actions
