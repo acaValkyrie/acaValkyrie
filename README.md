@@ -47,6 +47,8 @@ embedded system etc.
             <img width=41.7% align=right>
         </picture>
     </a>
+</p>
+<p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <picture>
             <source
