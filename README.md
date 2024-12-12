@@ -24,11 +24,11 @@ embedded system etc.
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <picture>
             <source
-                srcset="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=onedark"
+                srcset="./stats/stats-dark.svg"
                 media="(prefers-color-scheme: dark)"
             >
             <source
-                srcset="https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=default"
+                srcset="./stats/stats-light.svg"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
             <img width=54%>
@@ -37,11 +37,11 @@ embedded system etc.
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <picture>
             <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
+                srcset="./stats/langs-dark.svg"
                 media="(prefers-color-scheme: dark)"
             >
             <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
+                srcset="./stats/langs-light.svg"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
             <img width=41%>
@@ -52,11 +52,11 @@ embedded system etc.
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <picture>
             <source
-                srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=onedark"
+                srcset="./stats/torophy-dark.svg"
                 media="(prefers-color-scheme: dark)"
             >
             <source
-                srcset="https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=default"
+                srcset="./stats/torophy-light.svg"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             >
             <img width=96%>
