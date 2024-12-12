@@ -1,0 +1,20 @@
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+<style>
+#bar {
+    stroke-dasharray: 400px;
+    stroke-dashoffset: 200;
+    animation: bar 0.7s ease-out forwards;
+}
+@keyframes bar {
+  0% {
+    stroke-dashoffset: 400;
+  }
+  100% {
+    stroke-dashoffset: 200;
+  }
+}
+</style>
+<rect fill="black" x="0" y="0" width="200" height="50" rx="3"/>
+<text fill="white" x="34" y="30">Embedded; Systems</text>
+<path id="bar" stroke="white" d="M0,35 200,35z"/>
+</svg>
