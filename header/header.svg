@@ -13,8 +13,12 @@
     stroke-dashoffset: 200;
   }
 }
+#title{
+    font-family: Times New Roman;
+    font-size: 18px;
+}
 </style>
 <rect fill="black" x="0" y="0" width="200" height="50" rx="3"/>
-<text fill="white" x="34" y="30">Embedded; Systems</text>
+<text id="title" fill="white" x="28" y="30">Embedded; Systems</text>
 <path id="bar" stroke="white" d="M0,35 200,35z"/>
 </svg>
