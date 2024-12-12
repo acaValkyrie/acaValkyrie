@@ -1,0 +1,41 @@
+name: GitHub-Stats
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+    paths:
+    - .github/workflows/stats.yml
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-stats
+    steps:
+      - uses: actions/checkout@v3
+      - name: Get SVG dark
+        run: |
+          mkdir -p ./stats
+          curl -o ./stats/stats-dark.svg   "https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=onedark"
+          curl -o ./stats/langs-dark.svg   "https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
+          curl -o ./stats/torophy-dark.svg "https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=onedark"
+      - name: Get SVG light
+        run: |
+          curl -o ./stats/stats-light.svg   "https://github-readme-stats.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=default"
+          curl -o ./stats/langs-light.svg   "https://github-readme-stats.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab%2Ccmake%2Cglsl"
+          curl -o ./stats/torophy-light.svg "https://github-profile-trophy.vercel.app/?username=acaValkyrie&rank=-?&row=1&theme=default"
+      - name: Check for changes
+        run: |
+          git status
+          ls -la
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git pull
+          git add -A .
+          git commit -m "generated"
+          git push
