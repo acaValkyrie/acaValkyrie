@@ -1,5 +1,15 @@
 <p>
-<img width=100% src="./header/header.svg">
+<picture>
+    <source
+        srcset="./header/header-dark.svg"
+        media="(prefers-color-scheme: dark)"
+    >
+    <source
+        srcset="./header/header-light.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    >
+    <img width=100%>
+</picture>
 </p>
 
 # Skills
