@@ -59,21 +59,6 @@
     </a>
 </p>
 <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <picture>
-            <source
-                srcset="./stats/torophy-dark.svg"
-                media="(prefers-color-scheme: dark)"
-            >
-            <source
-                srcset="./stats/torophy-light.svg"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            >
-            <img width=96%>
-        </picture>
-    </a>
-</p>
-<p>
     <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
         <picture>
             <source
