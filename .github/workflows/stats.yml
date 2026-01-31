@@ -20,11 +20,11 @@ jobs:
         run: |
           mkdir -p ./stats
           curl -o ./stats/stats-dark.svg   "https://github-readme-stats-2-chi.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=onedark"
-          curl -o ./stats/langs-dark.svg   "https://github-readme-stats-2-chi.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark&count_private=true&hide=shaderlab%2Ccmake%2Cglsl%2CTeX%2CSVG%2CHLSL%2CJupyter Notebook"
+          curl -o ./stats/langs-dark.svg   "https://github-readme-stats-2-chi.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=onedark&count_private=true&hide=shaderlab%2Ccmake%2Cglsl%2CTeX%2CSVG%2CHLSL%2CJupyter%20Notebook"
       - name: Get SVG light
         run: |
           curl -o ./stats/stats-light.svg   "https://github-readme-stats-2-chi.vercel.app/api?username=acaValkyrie&count_private=true&show_icons=true&theme=default"
-          curl -o ./stats/langs-light.svg   "https://github-readme-stats-2-chi.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab%2Ccmake%2Cglsl%2CTeX%2CSVG%2CHLSL%2CJupyter Notebook"
+          curl -o ./stats/langs-light.svg   "https://github-readme-stats-2-chi.vercel.app/api/top-langs/?username=acaValkyrie&layout=compact&theme=default&count_private=true&hide=shaderlab%2Ccmake%2Cglsl%2CTeX%2CSVG%2CHLSL%2CJupyter%20Notebook"
       - name: Check for changes
         run: |
           git status
